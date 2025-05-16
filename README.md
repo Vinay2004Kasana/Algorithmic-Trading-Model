@@ -47,7 +47,7 @@ The notebook uses Python 3.12.7. Ensure your environment matches this version fo
 Setup Instructions
 
 Clone the Repository:
-git clone https://github.com/Vinay2004Kasana/Algo-Trading-Model
+git clone https://github.com/Vinay2004Kasana/Algorithmic-Trading-Model
 cd algo-trading-nifty50
 
 
