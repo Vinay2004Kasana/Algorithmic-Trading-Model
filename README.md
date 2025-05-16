@@ -120,4 +120,4 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
-For questions or feedback, reach out via GitHub Issues or email at [your-email@example.com].
+For questions or feedback, reach out via GitHub Issues or email at vinay55kasana@gmail.com.
